@@ -1,0 +1,12 @@
+C:\Users\alaa\Desktop\c#\project_\mini_project\mini_project\obj\x86\Release\mini_project.afficher.resources
+C:\Users\alaa\Desktop\c#\project_\mini_project\mini_project\obj\x86\Release\mini_project.ajouclient.resources
+C:\Users\alaa\Desktop\c#\project_\mini_project\mini_project\obj\x86\Release\mini_project.ajoutervet.resources
+C:\Users\alaa\Desktop\c#\project_\mini_project\mini_project\obj\x86\Release\mini_project.clientt.resources
+C:\Users\alaa\Desktop\c#\project_\mini_project\mini_project\obj\x86\Release\mini_project.acceuil.resources
+C:\Users\alaa\Desktop\c#\project_\mini_project\mini_project\obj\x86\Release\mini_project.admin.resources
+C:\Users\alaa\Desktop\c#\project_\mini_project\mini_project\obj\x86\Release\mini_project.modifier.resources
+C:\Users\alaa\Desktop\c#\project_\mini_project\mini_project\obj\x86\Release\mini_project.Properties.Resources.resources
+C:\Users\alaa\Desktop\c#\project_\mini_project\mini_project\obj\x86\Release\mini_project.recherche.resources
+C:\Users\alaa\Desktop\c#\project_\mini_project\mini_project\obj\x86\Release\mini_project.supprimer.resources
+C:\Users\alaa\Desktop\c#\project_\mini_project\mini_project\obj\x86\Release\mini_project.csproj.GenerateResource.Cache
+C:\Users\alaa\Desktop\c#\project_\mini_project\mini_project\bin\Release\mini_project.exe.config
